@@ -7,10 +7,11 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 /**
- * @author Samuel Langlois and Noah Garff. This class creates a program that
- *         determines if two words are anagrams and finds the largest group of
- *         anagrams in a list of words. Two words are anagrams if they contain
- *         the same letters in the same frequency.
+ * 	This class creates a program that determines if two words are anagrams
+ *  and finds the largest group of anagrams in a list of words. Two
+ *  words are anagrams if they contain the same letters in the same frequency.
+ *  
+ * @author Samuel Langlois and Noah Garff. 
  * @version September 23, 2021
  */
 public class AnagramChecker {

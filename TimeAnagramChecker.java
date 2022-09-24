@@ -5,6 +5,8 @@ import java.util.Comparator;
 import java.util.Random;
 
 /**
+ * This is a tracks the runtime of the anagram checker
+ *  
  * @author Samuel Langlois and Noah Garff
  **/
 public class TimeAnagramChecker {

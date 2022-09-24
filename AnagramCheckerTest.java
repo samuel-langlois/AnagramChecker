@@ -5,6 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 /**
+ * This Tests the anagram checker
+ *
  * @author Samuel Langlois and Noah Garff.
  * @version September 23, 2021
  */
